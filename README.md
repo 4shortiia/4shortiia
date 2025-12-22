@@ -1,10 +1,10 @@
 **Hi there👋  I'm Nora❄️**
 
 <h1>**👩🏻‍💻 About Me:**</h1>  
-<p style="line-height: 0;">💡 I decided to start learning programming because it’s the field where I feel I can truly find myself.</p>            
-<p style="line-height: o;">🚀 Step by step, I’m building my skills and gaining experience.</p><br />
-<p style="line-height: 1;">🌱 I strongly believe that with dedication and curiosity, I can become a future Front-end developer.</p><br />                   
-<p>📍 Tbilisi, Georgia 🇬🇪</p>
+<div></div>💡 I decided to start learning programming because it’s the field where I feel I can truly find myself.           
+🚀 Step by step, I’m building my skills and gaining experience.
+🌱 I strongly believe that with dedication and curiosity, I can become a future Front-end developer.                 
+📍 Tbilisi, Georgia 🇬🇪</div>
 
 
 
