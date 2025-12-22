@@ -1,6 +1,7 @@
 **Hi there👋 I'm Nora❄️**
 
 🎓 *Master in Public Relations* 
+
 💻 *Learning Frontend Development* 🚀  
 📍 *Tbilisi, Georgia* 🇬🇪
 
