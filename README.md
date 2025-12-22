@@ -6,7 +6,7 @@
 
 
 **🔧 Skills:**  
-✨ HTML <img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/512/Other-html-5-icon.png" alt="html icon" width="17" height="15"/>    
+✨ HTML <img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/512/Other-html-5-icon.png" alt="html icon" width="17" height="17"/>    
 ✨ CSS 🚧 *(loading)*    
 ✨ Git & GitHub 🧩  
 ✨ Canva & Photoshop 🎨  
