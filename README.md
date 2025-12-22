@@ -7,7 +7,7 @@
 
 **🔧 Skills:**  
 ✨ HTML <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" alt="html-icon" width="18" height="18"/>    
-✨ CSS <img src="https://github.com/user-attachments/assets/1cbda098-03d8-476a-93c4-01969efd0a74" alt="css-icon" width="22" height="22" /> *(loading)⏳*   
+✨ CSS <img src="https://github.com/user-attachments/assets/1cbda098-03d8-476a-93c4-01969efd0a74" alt="css-icon" width="22" height="22" /> *(loading)⏳*          
 ✨ Git & GitHub <img src="https://images.icon-icons.com/3685/PNG/512/github_logo_icon_229278.png" alt="github-icon" width="20" height="20"/> 
 ✨ Adobe Illustrator <img src="https://static.vecteezy.com/system/resources/thumbnails/021/282/248/small/adobe-illustrator-circle-icon-for-web-design-free-png.png" alt="photoshop-icon" width="23" height="23"/>   
 ✨ Adobe Photoshop <img src="https://static.vecteezy.com/system/resources/previews/019/016/822/non_2x/adobe-photoshop-express-editor-icon-free-png.png" width="25" height="25"/>  
