@@ -14,10 +14,10 @@
 ✨ PR & Media Analysis 📊  
 <hr/>
 
-**🎧 Hobbies**
-✨ coding 💻 
-✨ Watching anime 🍥  
-✨ Sleeping 😴  
+**🎧 Hobbies**    
+✨ coding 💻     
+✨ Watching anime 🍥     
+✨ Sleeping 😴     
 <hr/>
 
 
