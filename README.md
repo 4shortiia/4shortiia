@@ -4,8 +4,7 @@
 📍 *Tbilisi, Georgia* 🇬🇪
 
 
-**🔧 Skills:**
-
+**🔧 Skills:**  
 ✨ HTML 🟢  
 ✨ CSS 🚧 *(loading)*    
 ✨ Git & GitHub 🧩  
@@ -13,8 +12,8 @@
 ✨ PR & Media Analysis 📊  
 
 
-**📫 Contact:**  
 
+**📫 Contact:**   
 ✨ *LinkedIn* 🔗  
 👉 https://www.linkedin.com/in/nora-ashortia
 <!--
