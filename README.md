@@ -7,7 +7,7 @@
 
 **🔧 Skills:**  
 ✨ HTML <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" alt="html icon" width="18" height="18"/>    
-✨ CSS <img src="https://github.com/user-attachments/assets/1cbda098-03d8-476a-93c4-01969efd0a74" alt="css icon" width="22" height="22" /> *(loading)* 
+✨ CSS <img src="https://github.com/user-attachments/assets/1cbda098-03d8-476a-93c4-01969efd0a74" alt="css icon" width="22" height="22" /> *(loading)*   
 ✨ Git & GitHub 🧩  
 ✨ Canva & Photoshop 🎨  
 ✨ PR & Media Analysis 📊  
