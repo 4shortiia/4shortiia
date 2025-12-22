@@ -6,8 +6,8 @@
 
 
 **🔧 Skills:**  
-✨ HTML <img src="https://www.shareicon.net/data/2015/10/04/111732_html5-icon_512x512.png" alt="html icon" width="17" height="17"/>    
-✨ CSS <img width="534" height="467" alt="624-6241203_css-icon-png-cascading-style-sheets-removebg-preview" src="https://github.com/user-attachments/assets/1cbda098-03d8-476a-93c4-01969efd0a74" alt="css icon" width="17" height="17" /> *(loading)* 
+✨ HTML <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" alt="html icon" width="17" height="17"/>    
+✨ CSS <img src="https://github.com/user-attachments/assets/1cbda098-03d8-476a-93c4-01969efd0a74" alt="css icon" width="17" height="17" /> *(loading)* 
 
 ✨ Git & GitHub 🧩  
 ✨ Canva & Photoshop 🎨  
