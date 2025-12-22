@@ -1,6 +1,6 @@
-<b>Hi there👋  I'm Nora❄️</b>
+<h1><b>Hi there👋  I'm Nora❄️</b></h1>h1>
 
-<h1><b>👩🏻‍💻 About Me:</b></h1>  
+<h2><b>👩🏻‍💻 About Me:</b></h2>  
 <span>💡 I decided to start learning programming because it’s the field where I feel I can truly find myself.</span><br>          
 <span>🚀 Step by step, I’m building my skills and gaining experience.</span><br>   
 <span>🌱 I strongly believe that with dedication and curiosity, I can become a future Front-end developer.</span><br>                 
