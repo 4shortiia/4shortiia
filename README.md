@@ -1,8 +1,8 @@
 **Hi there👋 I'm Nora❄️**
 
-🎓 *Master in Public Relations*
 💻 *Learning Frontend Development* 🚀  
 📍 *Tbilisi, Georgia* 🇬🇪
+
 
 **🔧 Skills**
 ▸ HTML 🟢✨  
@@ -10,6 +10,7 @@
 ▸ Git & GitHub 🧩  
 ▸ Canva & Photoshop 🎨  
 ▸ PR & Media Analysis 📊
+
 
 **📫 Contact**
 ▸ *LinkedIn* 🔗  
