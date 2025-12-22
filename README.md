@@ -13,7 +13,7 @@
 ✨ PR & Media Analysis 📊  
 
 
-**📫 Contact**
+**📫 Contact**  
 ✨ *LinkedIn* 🔗  
 👉 https://www.linkedin.com/in/nora-ashortia
 <!--
