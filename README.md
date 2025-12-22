@@ -2,6 +2,7 @@
 
 💻 *Learning Frontend Development* 🚀  
 📍 *Tbilisi, Georgia* 🇬🇪
+<hr/>
 
 
 **🔧 Skills:**  
