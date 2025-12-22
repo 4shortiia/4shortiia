@@ -1,5 +1,23 @@
-## Hi there 👋
+Hi there👋 I'm Nora❄️
 
+🎓 *Master in Public Relations* 
+💻 Learning Frontend Development 🚀  
+📍 Tbilisi, Georgia 🇬🇪
+
+🔧 Skills
+▸ HTML 🟢✨  
+▸ CSS 🚧 *(under construction)*  
+▸ Git & GitHub 🧩  
+▸ Canva & Photoshop 🎨  
+▸ PR & Media Analysis 📊
+
+🌱 Currently learning
+- JavaScript
+- Frontend best practices
+
+📫 Contact
+▸ LinkedIn 🔗  
+👉 https://www.linkedin.com/in/nora-ashortia
 <!--
 **4shortiia/4shortiia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
