@@ -7,14 +7,14 @@
 **🔧 Skills**
 
 ✨ HTML 🟢  
-✨ CSS 🚧 *(loading)* 
+✨ CSS 🚧 (loading)
 ✨ Git & GitHub 🧩  
 ✨ Canva & Photoshop 🎨  
 ✨ PR & Media Analysis 📊  
 
 
 **📫 Contact**
-○ *LinkedIn* 🔗  
+✨ *LinkedIn* 🔗  
 👉 https://www.linkedin.com/in/nora-ashortia
 <!--
 **4shortiia/4shortiia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
