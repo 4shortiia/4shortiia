@@ -11,8 +11,8 @@
 ✨ Git & GitHub <img src="https://images.icon-icons.com/3685/PNG/512/github_logo_icon_229278.png" alt="github-icon" width="20" height="20"/>     
 ✨ Adobe Photoshop <img src="https://static.vecteezy.com/system/resources/previews/019/016/822/non_2x/adobe-photoshop-express-editor-icon-free-png.png" width="22" height="22"/>       
 ✨ Adobe Illustrator <img src="https://static.vecteezy.com/system/resources/thumbnails/021/282/248/small/adobe-illustrator-circle-icon-for-web-design-free-png.png" alt="photoshop-icon" width="20" height="20"/>    
-✨ Canva <img src="https://1000logos.net/wp-content/uploads/2020/03/Canva-icon.png" alt="canva icon" width="22" height="22"/>           
-✨ Manychat <img width="22" height="22" alt="manychat-icon" src="https://github.com/user-attachments/assets/6ad157fd-309d-4b73-a64d-4bafb418c07e" />      
+✨ Canva <img src="https://1000logos.net/wp-content/uploads/2020/03/Canva-icon.png" alt="canva icon" width="25" height="25"/>           
+✨ Manychat <img width="20" height="20" alt="manychat-icon" src="https://github.com/user-attachments/assets/6ad157fd-309d-4b73-a64d-4bafb418c07e" />      
 ✨ Mailchimp <img width="18" height="18" alt="manychat-icon" src="https://icon-icons.com/download-file?file=https%3A%2F%2Fimages.icon-icons.com%2F2407%2FPNG%2F512%2Fmailchimp_icon_146054.png&id=146054&pack_or_individual=pack" />
 <hr/>
 
