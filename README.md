@@ -7,7 +7,7 @@
 **🔧 Skills**
 
 ✨ HTML 🟢  
-✨ CSS 🚧 (loading)
+✨ CSS 🚧 *(loading)*    
 ✨ Git & GitHub 🧩  
 ✨ Canva & Photoshop 🎨  
 ✨ PR & Media Analysis 📊  
