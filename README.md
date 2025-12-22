@@ -6,11 +6,11 @@
 
 **🔧 Skills**
 
-○ HTML 🟢✨  
-○ CSS ⏳ *(loading)* 
-○ Git & GitHub 🧩  
-○ Canva & Photoshop 🎨  
-○ PR & Media Analysis 📊 
+✨ HTML 🟢  
+✨ CSS 🚧 *(loading)* 
+✨ Git & GitHub 🧩  
+✨ Canva & Photoshop 🎨  
+✨ PR & Media Analysis 📊  
 
 
 **📫 Contact**
