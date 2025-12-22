@@ -3,7 +3,7 @@
 <h1>**👩🏻‍💻 About Me:**</h1>  
 <p>💡 I decided to start learning programming because it’s the field where I feel I can truly find myself.</p>              
 <p>🚀 Step by step, I’m building my skills and gaining experience.</p>                  
-<p>🌱 I strongly believe that with dedication and curiosity, I can become a future Front-end developer.</p><br/>                        
+<br/><p>🌱 I strongly believe that with dedication and curiosity, I can become a future Front-end developer.</p>                        
 <br/><p>📍 Tbilisi, Georgia 🇬🇪</p><br/>
 
 
