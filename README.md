@@ -1,4 +1,4 @@
-<h1><b>Hi there👋  I'm Nora❄️</b></h1>h1>
+<h1><b>Hi there👋  I'm Nora❄️</b></h1>
 
 <h2><b>👩🏻‍💻 About Me:</b></h2>  
 <span>💡 I decided to start learning programming because it’s the field where I feel I can truly find myself.</span><br>          
