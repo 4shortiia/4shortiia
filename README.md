@@ -6,7 +6,7 @@
 
 
 **🔧 Skills:**  
-✨ HTML <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" alt="html icon" width="70" height="70"/>    
+✨ HTML <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" alt="html icon" width="7" height="7"/>    
 ✨ CSS 🚧 *(loading)*    
 ✨ Git & GitHub 🧩  
 ✨ Canva & Photoshop 🎨  
