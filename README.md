@@ -5,7 +5,7 @@
 🚀 Step by step, I’m building my skills and gaining experience.  
 🌱 I strongly believe that with dedication and curiosity, I can become a future Front-end developer.     
 📍 Tbilisi, Georgia 🇬🇪
-<hr/>
+
 
 
 <h2>**🔧 Skills:**</h2>  
@@ -17,14 +17,14 @@
 ✨ Canva <img src="https://1000logos.net/wp-content/uploads/2020/03/Canva-icon.png" alt="canva icon" width="25" height="25"/>           
 ✨ Manychat <img width="20" height="20" alt="manychat-icon" src="https://github.com/user-attachments/assets/6ad157fd-309d-4b73-a64d-4bafb418c07e" />      
 ✨ Mailchimp <img width="18" height="18" alt="manychat-icon" src="https://icon-icons.com/download-file?file=https%3A%2F%2Fimages.icon-icons.com%2F2407%2FPNG%2F512%2Fmailchimp_icon_146054.png&id=146054&pack_or_individual=pack" />
-<hr/>
+
 
 
 <h2>**🎧 Hobbies:**</h2>      
 ✨ Coding 💻     
 ✨ Watching anime 🍥     
 ✨ Sleeping 😴     
-<hr/>
+
 
 
 <h2>**📫 Contact:**</h2>   
