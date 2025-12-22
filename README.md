@@ -7,7 +7,7 @@
 
 **🔧 Skills:**  
 ✨ HTML <img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/512/Other-html-5-icon.png" alt="html icon" width="17" height="17"/>    
-✨ CSS 🚧 *(loading)*    
+✨ CSS <img src="https://www.pngkey.com/png/detail/624-6241203_css-icon-png-cascading-style-sheets.png" alt="html icon" width="17" height="17"/> *(loading)*    
 ✨ Git & GitHub 🧩  
 ✨ Canva & Photoshop 🎨  
 ✨ PR & Media Analysis 📊  
