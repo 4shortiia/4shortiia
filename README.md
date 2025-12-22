@@ -6,12 +6,18 @@
 
 
 **🔧 Skills:**  
-✨ HTML 🟢  
+✨ HTML <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" alt="html icon">  
 ✨ CSS 🚧 *(loading)*    
 ✨ Git & GitHub 🧩  
 ✨ Canva & Photoshop 🎨  
 ✨ PR & Media Analysis 📊  
+<hr/>
 
+**🎧 Hobbies**
+✨ coding 💻 
+✨ Watching anime 🍥  
+✨ Sleeping 😴  
+<hr/>
 
 
 **📫 Contact:**   
