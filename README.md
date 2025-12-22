@@ -21,9 +21,9 @@
 
 
 <h2><b>🎧 Hobbies:</b></h2>      
-✨ Coding 💻     
-✨ Watching anime 🍥     
-✨ Sleeping 😴     
+✨ <span>Coding 💻</span><br>   
+✨ <span>Watching anime 🍥</span><br>     
+✨ <span>Sleeping 😴</span>     
 
 
 
