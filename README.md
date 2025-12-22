@@ -1,6 +1,6 @@
 **Hi there👋  I'm Nora❄️**
 
-<h1>**👩🏻‍💻 About Me:**</h1>
+<h1>**👩🏻‍💻 About Me:**</h1>  
 💡 I decided to start learning programming because it’s the field where I feel I can truly find myself.  
 🚀 Step by step, I’m building my skills and gaining experience.  
 🌱 I strongly believe that with dedication and curiosity, I can become a future Front-end developer.     
@@ -8,7 +8,7 @@
 <hr/>
 
 
-**🔧 Skills:**  
+<h2>**🔧 Skills:**</h2>  
 ✨ HTML <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" alt="html-icon" width="18" height="18"/>    
 ✨ CSS <img src="https://github.com/user-attachments/assets/1cbda098-03d8-476a-93c4-01969efd0a74" alt="css-icon" width="22" height="22" /> *(loading)⏳*          
 ✨ Git & GitHub <img src="https://images.icon-icons.com/3685/PNG/512/github_logo_icon_229278.png" alt="github-icon" width="20" height="20"/>     
@@ -20,14 +20,14 @@
 <hr/>
 
 
-**🎧 Hobbies:**    
+<h2>**🎧 Hobbies:**</h2>      
 ✨ Coding 💻     
 ✨ Watching anime 🍥     
 ✨ Sleeping 😴     
 <hr/>
 
 
-**📫 Contact:**   
+<h2>**📫 Contact:**</h2>   
 ✨ *LinkedIn* 🔗  
 👉 https://www.linkedin.com/in/nora-ashortia
 <!--
