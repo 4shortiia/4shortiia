@@ -12,7 +12,7 @@
 ✨ Adobe Photoshop <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop-icon" width="23" height="23"/>       
 ✨ Canva <img src="https://1000logos.net/wp-content/uploads/2020/03/Canva-icon.png" alt="canva icon" width="25" height="25"/>           
 ✨ Manychat <img width="22" height="22" alt="manychat-icon" src="https://github.com/user-attachments/assets/6ad157fd-309d-4b73-a64d-4bafb418c07e" />      
-✨ Mailchimp <img width="22" height="22" alt="manychat-icon" src="https://icon-icons.com/download-file?file=https%3A%2F%2Fimages.icon-icons.com%2F2407%2FPNG%2F512%2Fmailchimp_icon_146054.png&id=146054&pack_or_individual=pack" />
+✨ Mailchimp <img width="18" height="18" alt="manychat-icon" src="https://icon-icons.com/download-file?file=https%3A%2F%2Fimages.icon-icons.com%2F2407%2FPNG%2F512%2Fmailchimp_icon_146054.png&id=146054&pack_or_individual=pack" />
 <hr/>
 
 
