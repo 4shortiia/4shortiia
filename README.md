@@ -1,7 +1,10 @@
 **Hi there👋  I'm Nora❄️**
 
-💻 *Learning Frontend Development* 🚀  
-📍 *Tbilisi, Georgia* 🇬🇪
+**👩🏻‍💻 About Me:**    
+💡 I decided to start learning programming because it’s the field where I feel I can truly find myself.  
+🚀 Step by step, I’m building my skills and gaining experience.  
+🌱 I strongly believe that with dedication and curiosity, I can become a future Front-end developer. 
+📍 Tbilisi, Georgia 🇬🇪
 <hr/>
 
 
@@ -17,7 +20,7 @@
 <hr/>
 
 
-**🎧 Hobbies**    
+**🎧 Hobbies:**    
 ✨ Coding 💻     
 ✨ Watching anime 🍥     
 ✨ Sleeping 😴     
