@@ -3,7 +3,7 @@
 <span>📍 Tbilisi, Georgia 🇬🇪</span>
 
 <h2><b>🔧 Skills:</b></h2>  
-<span>✨ HTML<img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" alt="html-icon" width="18" height="18"/></span><br>    
+✨ HTML<img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" alt="html-icon" width="18" height="18"/><br>    
 <span>✨ CSS<img src="https://github.com/user-attachments/assets/1cbda098-03d8-476a-93c4-01969efd0a74" alt="css-icon" width="22" height="22" /> <i>(loading)⏳</i></span><br>           
 <span>✨ Git & GitHub<img src="https://images.icon-icons.com/3685/PNG/512/github_logo_icon_229278.png" alt="github-icon" width="20" height="20"/></span><br> 
 <span>✨ Adobe Photoshop<img src="https://static.vecteezy.com/system/resources/previews/019/016/822/non_2x/adobe-photoshop-express-editor-icon-free-png.png" width="22" height="22"/></span><br> 
